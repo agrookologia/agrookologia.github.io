@@ -104,7 +104,7 @@ theme: magnetic
 deploy:
   type: git
   message: ahaha
-  repo: https://github.com/agrookologia/agrookologia
+  repo: https://github.com/agrookologia/agrookologia.github.io
   extend_dirs: /
   ignore_hidden:
     public: false
