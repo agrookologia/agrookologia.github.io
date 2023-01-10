@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: page-fullwidth
 header: 
-    title: Agroökológia - Tudomány, gyakorlat, mozgalom
+    title: "Agroökológia - Tudomány, gyakorlat, mozgalom"
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: Agroökológia - Tudomány, gyakorlat, mozgalom
+    caption: "Agroökológia - Tudomány, gyakorlat, mozgalom"
     caption_url: https://unsplash.com/
 
 meta_teaser: "Az agroökológia célja a természeti környezettel összhangban működő mezőgazdasági termelés és társadalmilag fenntartható, méltányos élelmezési rendszerek megteremtése. "
