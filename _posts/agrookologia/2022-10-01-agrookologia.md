@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header: 
     title: "Agroökológia - Tudomány, gyakorlat, mozgalom"
-    image_fullwidth: cimkes_kamra.jpg
+    image_fullwidth: kamra-cimkes.jpg
     caption: "Agroökológia - Tudomány, gyakorlat, mozgalom"
     caption_url: 
 
