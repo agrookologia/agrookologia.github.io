@@ -1,9 +1,24 @@
 ---
-title: Agroökológia - Tudomány, gyakorlat, mozgalom
-date: 2022-10-01 21:58:52
+layout: page
+subheadline: Templates
+title:  "Agroökológia - Tudomány, gyakorlat, mozgalom"
+teaser: "Agroökológia teaser"
+meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
+breadcrumb: true
+categories:
+    - agrookologia
 tags:
-categories: agroökológia
+    - blog
+    - content
+    - post
+    - post format
+image:
+    title: gallery-example-1.jpg
+    caption: Unsplash.com
+    caption_url: http://unsplash.com
+author: kati
 ---
+
 Az agroökológia célja a természeti környezettel összhangban működő mezőgazdasági termelés és társadalmilag fenntartható, méltányos élelmezési rendszerek megteremtése. 
 
 Az agroökológia egyszerre tudományos irányzat, gyakorlatok és társadalmi törekvések összessége. Az iparosodott mezőgazdaság által okozott problémákra válaszként kezdett teret hódítani. Tudományos alapjai az agronómia, az ökológia, a társadalomtudományok és a közgazdaságtan területein találhatók. 
