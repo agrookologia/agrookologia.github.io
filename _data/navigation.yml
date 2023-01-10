@@ -17,20 +17,15 @@
   url: "/halozat/"
   side: left
   dropdown:
-  - title: "Történetünk"
-    url: "/changelog/"
-  - title: "Tagjaink"
-    url: "/roadmap/"
-
-- title: Tevékenységeink
-  url: "/halozat/"
-  side: left
-  dropdown:
-  - title: "Történetünk"
+  - title: "Történetünk, küldetésünk"
     url: "/tortenetunk"
+  - title: "Magyar Agroökológia Hálózat Egyesüle"
+    url: "/egyesület
   - title: "Tagjaink"
-    url: "/tagjaink/"
-
+    url: "/tagjaink"
+  - title: Tevékenységeink
+    url: "/tevekenysegeink/"
+    
 - title: Projectek
   url: "/projectek"
   side: left
