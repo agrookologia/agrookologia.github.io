@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Agroökológia
+- title: "Agroökológia"
   url: "/agrookologia/"
   side: left
   dropdown:
@@ -13,20 +13,20 @@
   - title: "Az agroökológia Magyarországon"
     url: "/agrookologia/magyarorszagon"
 
-- title: Hálózat
+- title: "Hálózat"
   url: "/halozat/"
   side: left
   dropdown:
   - title: "Történetünk, küldetésünk"
     url: "/tortenetunk"
-  - title: "Magyar Agroökológia Hálózat Egyesüle"
+  - title: "Magyar Agroökológia Hálózat Egyesület"
     url: "/egyesület
   - title: "Tagjaink"
     url: "/tagjaink"
-  - title: Tevékenységeink
+  - title: "Tevékenységeink"
     url: "/tevekenysegeink/"
     
-- title: Projectek
+- title: "Projectek"
   url: "/projectek"
   side: left
 
