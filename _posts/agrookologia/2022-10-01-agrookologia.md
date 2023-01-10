@@ -6,7 +6,8 @@ header:
     caption: Agroökológia - Tudomány, gyakorlat, mozgalom
     caption_url: https://unsplash.com/
 
-meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
+meta_teaser: "Az agroökológia célja a természeti környezettel összhangban működő mezőgazdasági termelés és társadalmilag fenntartható, méltányos élelmezési rendszerek megteremtése. "
+
 breadcrumb: false
 categories:
     - agrookologia
