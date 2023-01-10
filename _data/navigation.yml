@@ -4,6 +4,7 @@
 
 - title: Agroökológia
   url: "/agrookologia/"
+  side: left
   dropdown:
   - title: "Az agroökológia"
     url: "/agrookologia/agrookologia/"
