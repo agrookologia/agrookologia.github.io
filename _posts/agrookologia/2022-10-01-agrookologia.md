@@ -10,7 +10,7 @@ meta_teaser: "Az agroökológia célja a természeti környezettel összhangban 
 
 breadcrumb: false
 categories:
-    - agrookologia
+    - agroökológia
 tags:
     - content
 author: kati
