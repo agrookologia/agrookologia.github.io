@@ -21,7 +21,8 @@ author: kati
 Magyarországon sokféle alternatív, fenntartható, környezetbarát mezőgazdasággal és élelmiszerekkel kapcsolatos kezdeményezés létezik a mezőgazdasági gyakorlat, az agrárkutatás, és a felsőoktatás területén is. Az agroökológiai megközelítés alkalmas arra, hogy összekösse a mezőgazdasági termelők, szakágazati kutatók, civil aktivisták és tudatos fogyasztók munkáját egy regeneratív, társadalmilag igazságos, egészséges élelmiszer-rendszer létrehozásában. Az Agroecology Europe megbízásából 2020-ban feltérképeztük a magyarországi helyzetet.
 Ennek főbb eredményei a következők: 
 
-Idézet a tanulmány összefoglalójából:
+## Idézet a tanulmány összefoglalójából:
+
 “Az agroökológia, mint tudomány, mozgalom és gazdálkodási gyakorlatok összességének alapelemei mind jelen vannak Magyarországon. Holisztikus megközelítése fontos kiindulópontja lenne a környezetbarát mezőgazdaság elterjesztésének. A tudományos műhelyek alapvető érdeke az agroökológia tudásrendszereken átívelő megközelítésének elterjesztése. A szakpolitika végrehajtói ugyanakkor Magyarországon a fenntartható helyett a versenyképes mezőgazdaság mellett elkötelezettek, kevés figyelem és pénzügyi támogatás jut a megalapozó vagy alkalmazott agroökológiai kutatásokra. Az agroökológia holisztikus megközelítése szűkre szabottan érhető tetten, jobbára a szerény eredményeket felmutató gyakorlat és civil szféra szintjén. 
 Az agroökológiai értelemben sikeres gazdálkodási gyakorlatok hagyományos és innovatív elemek együttes alkalmazására, az értékesítés területén társadalmi innovációkra építhetnek. 
 A zöld mozgalmak kiemelt figyelmet fordítanak élelmezésünk romló környezeti alapfeltételeire. A mezőgazdasági sokféleség vagy a regeneratív mezőgazdaság területén létrejött helyi kezdeményezések elkötelezettek a magasabb szintű együttműködés és egy hazai agroökológiai hálózat létrehozása iránt.
