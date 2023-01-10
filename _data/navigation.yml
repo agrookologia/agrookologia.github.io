@@ -12,18 +12,32 @@
   - title: "Az agroökológia Magyarországon"
     url: "/agrookologia/magyarorszagon"
 
-url: "/agrookologia/"
-  side: left
-
 - title: Hálózat
   url: "/halozat/"
   dropdown:
-  - title: "Changelog"
+  - title: "Történetünk"
     url: "/changelog/"
-  - title: "Roadmap"
+  - title: "Tagjaink"
     url: "/roadmap/"
  side: left
 
+- title: Tevékenységeink
+  url: "/halozat/"
+  dropdown:
+  - title: "Történetünk"
+    url: "/changelog/"
+  - title: "Tagjaink"
+    url: "/roadmap/"
+ side: left
+
+- title: Projectek
+  url: "/halozat/"
+  dropdown:
+  - title: "Történetünk"
+    url: "/changelog/"
+  - title: "Tagjaink"
+    url: "/roadmap/"
+ side: left
 
 - title: "Templates"
   url: "/design/"
@@ -76,10 +90,10 @@ url: "/agrookologia/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Keresés"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Kapcsolat"
   url: "/contact/"
   side: right
