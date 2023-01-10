@@ -2,9 +2,9 @@
 layout: page-fullwidth
 header: 
     title: "Agroökológia - Tudomány, gyakorlat, mozgalom"
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    image_fullwidth: cimkes_kamra.jpg
     caption: "Agroökológia - Tudomány, gyakorlat, mozgalom"
-    caption_url: https://unsplash.com/
+    caption_url: 
 
 meta_teaser: "Az agroökológia célja a természeti környezettel összhangban működő mezőgazdasági termelés és társadalmilag fenntartható, méltányos élelmezési rendszerek megteremtése. "
 
@@ -35,4 +35,4 @@ a globális cégekkel, és az ipari mezőgazdálkodással szemben a helyi közö
 
 A fenntartható élelmiszer-rendszerek elengedhetetlen részei a  vidéki életminőség, a társadalmi egyenlőség, az egyéni és közösségi jólét szempontjából. Az agroökológia a gyakorlatban a méltóság, az egyenlőség, a befogadás és az igazságosság társadalmi értékeinek megvalósítását tartja szem előtt. Az agroökológiai élelmiszer-rendszerben a központi helyet a hagyományos gazdálkodásban az értéklánc legkiszolgáltatottabb tagjai, az élelmiszertermelők és a fogyasztók foglalják el. Az agro-ökoszisztémák kezeléséhez szükséges önállóság és alkalmazkodás feltételeinek megteremtésével az agroökológiai rendszerek segítenek leküzdeni a helyi közösségeknek a szegénység és az éhezés problémáit,  így az emberi jogok megvalósulásához is hozzájárulnak, miközben a  környezetet is megóvják, annak állapotát javítják. 
 
-Agroökológiai átmenet def. 
+_Agroökológiai átmenet def._ 
