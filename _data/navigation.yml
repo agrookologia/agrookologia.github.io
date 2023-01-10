@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Az agroökológia"
-    url: "/agrookologia/agrookologia/"
+    url: "/agrookologia/agrookologia"
   - title: "Az agroökológia 10 eleme"
     url: "/agrookologia/10-eleme"
   - title: "Az agroökológia Magyarországon"
@@ -27,18 +27,13 @@
   side: left
   dropdown:
   - title: "Történetünk"
-    url: "/changelog/"
+    url: "/tortenetunk"
   - title: "Tagjaink"
-    url: "/roadmap/"
+    url: "/tagjaink/"
 
 - title: Projectek
-  url: "/halozat/"
+  url: "/projectek"
   side: left
-  dropdown:
-  - title: "Történetünk"
-    url: "/changelog/"
-  - title: "Tagjaink"
-    url: "/roadmap/"
 
 - title: "Templates"
   url: "/design/"
