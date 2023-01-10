@@ -14,30 +14,30 @@
 
 - title: Hálózat
   url: "/halozat/"
+  side: left
   dropdown:
   - title: "Történetünk"
     url: "/changelog/"
   - title: "Tagjaink"
     url: "/roadmap/"
- side: left
 
 - title: Tevékenységeink
   url: "/halozat/"
+  side: left
   dropdown:
   - title: "Történetünk"
     url: "/changelog/"
   - title: "Tagjaink"
     url: "/roadmap/"
- side: left
 
 - title: Projectek
   url: "/halozat/"
+  side: left
   dropdown:
   - title: "Történetünk"
     url: "/changelog/"
   - title: "Tagjaink"
     url: "/roadmap/"
- side: left
 
 - title: "Templates"
   url: "/design/"
