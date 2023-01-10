@@ -1,13 +1,13 @@
 - title: "Agroökológia"
-  url: "/agrookologia/"
+  url: "/agroökológia/"
   side: left
   dropdown:
   - title: "Az agroökológia"
-    url: "/agrookologia/agroökológia"
+    url: "/agroökológia/agroökológia"
   - title: "Az agroökológia 10 eleme"
-    url: "/agrookologia/10-eleme"
+    url: "/agroökológia/10-eleme"
   - title: "Az agroökológia Magyarországon"
-    url: "/agrookologia/magyarorszagon"
+    url: "/agroökológia/magyarorszagon"
 
 - title: "Hálózat"
   url: "/halozat/"
