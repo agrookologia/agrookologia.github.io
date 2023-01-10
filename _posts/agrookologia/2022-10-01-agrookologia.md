@@ -1,21 +1,17 @@
 ---
 layout: page
-subheadline: Templates
-title:  "Agroökológia - Tudomány, gyakorlat, mozgalom"
-teaser: "Agroökológia teaser"
+header: 
+    title: header with text
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    caption: Agroökológia - Tudomány, gyakorlat, mozgalom
+    caption_url: https://unsplash.com/
+
 meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
-breadcrumb: true
+breadcrumb: false
 categories:
     - agrookologia
 tags:
-    - blog
     - content
-    - post
-    - post format
-image:
-    title: gallery-example-1.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
 author: kati
 ---
 
