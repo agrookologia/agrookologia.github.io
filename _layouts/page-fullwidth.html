@@ -19,10 +19,12 @@ format: page-fullwidth
 <div class="row t30">
 	<div class="medium-12 columns">
 		<article>
-			{% unless page.image.title %} <header>
+			{% if page.image.title == empty %} 
+			<header>
 				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
 				<h1>{{ page.title }}</h1>
-			</header> {% endunless %}
+			</header> 
+			{% endidf %}
 
 			{% if page.teaser %}
 			<p class="teaser">
