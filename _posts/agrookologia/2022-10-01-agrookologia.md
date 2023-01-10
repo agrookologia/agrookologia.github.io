@@ -5,7 +5,9 @@ header:
     image_fullwidth: kamra-cimkes.jpg
     caption: "Agroökológia - Tudomány, gyakorlat, mozgalom"
     caption_url: 
-
+   
+title: "Agroökológia"
+subtitle: "Tudomány, gyakorlat, mozgalom"
 meta_teaser: "Az agroökológia célja a természeti környezettel összhangban működő mezőgazdasági termelés és társadalmilag fenntartható, méltányos élelmezési rendszerek megteremtése. "
 
 breadcrumb: false
