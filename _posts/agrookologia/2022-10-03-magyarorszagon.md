@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header: 
     title: "Agroökológia Magyarországon"
-    image_fullwidth: "fagyos-marhak.jpg"
+    image_fullwidth: "csoportos.jpg"
     caption:
     caption_url: 
 title: Agroökológia magyarországon
