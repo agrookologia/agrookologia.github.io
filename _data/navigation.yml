@@ -15,8 +15,8 @@
   dropdown:
   - title: "Történetünk, küldetésünk"
     url: "/hálózat/tortenetunk-kuldetesunk"
-  - title: "Magyar Agroökológia Hálózat Egyesület"
-    url: "/hálózat/egyesület"
+  #- title: "Magyar Agroökológia Hálózat Egyesület"
+  #  url: "/hálózat/egyesület"
   - title: "Tagjaink"
     url: "/hálózat/tagjaink"
   - title: "Tevékenységeink"
