@@ -7,7 +7,7 @@ header:
     caption_url: 
 breadcrumb: false
 categories:
-    - agroökológia
+    - projectek
 tags:
     - content
 title: Az agroökológia alapelemei
