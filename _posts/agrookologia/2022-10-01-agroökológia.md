@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 header: 
-    title: "Agroökológia <br/> Tudomány, gyakorlat, mozgalom"
-    subtitle: "Tudomány, gyakorlat, mozgalom"
+    title: "Agroökológia"
+    subheadline: "Tudomány, gyakorlat, mozgalom"
     image_fullwidth: kamra-cimkes.jpg
     caption: "Agroökológia - Tudomány, gyakorlat, mozgalom"
     caption_url: 
