@@ -36,5 +36,3 @@ az élelmiszerbiztonság és az élelem-önrendelkezés megteremtése;
 a globális cégekkel, és az ipari mezőgazdálkodással szemben a helyi közösségek érdekeit  előtérbe helyező élelmezési rendszerek megteremtése.  
 
 A fenntartható élelmiszer-rendszerek elengedhetetlen részei a  vidéki életminőség, a társadalmi egyenlőség, az egyéni és közösségi jólét szempontjából. Az agroökológia a gyakorlatban a méltóság, az egyenlőség, a befogadás és az igazságosság társadalmi értékeinek megvalósítását tartja szem előtt. Az agroökológiai élelmiszer-rendszerben a központi helyet a hagyományos gazdálkodásban az értéklánc legkiszolgáltatottabb tagjai, az élelmiszertermelők és a fogyasztók foglalják el. Az agro-ökoszisztémák kezeléséhez szükséges önállóság és alkalmazkodás feltételeinek megteremtésével az agroökológiai rendszerek segítenek leküzdeni a helyi közösségeknek a szegénység és az éhezés problémáit,  így az emberi jogok megvalósulásához is hozzájárulnak, miközben a  környezetet is megóvják, annak állapotát javítják. 
-
-_Agroökológiai átmenet def._ 
