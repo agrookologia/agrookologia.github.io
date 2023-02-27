@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Contact"
+title: "Kapcsolat"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+Magyarországi Agroökológia Hálózat Egyesület
 
- [1]: http://www.wufoo.com/
+e-mail: [agrookologiamagyarorszag@gmail.com](agrookologiamagyarorszag@gmail.com)
+FB: [https://www.facebook.com/agrookologiamagyarorszag](https://www.facebook.com/agrookologiamagyarorszag) 
