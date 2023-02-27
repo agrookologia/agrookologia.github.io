@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header: 
-    title: "Kapcsolat"
+    title: "<br/>Kapcsolat"
     image_fullwidth: "teli hatteren.jpg"
     caption:
     caption_url: 
