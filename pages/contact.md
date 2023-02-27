@@ -1,7 +1,11 @@
 ---
-layout: page
-title: "Kapcsolat"
-meta_title: "Contact and use our contact form"
+layout: page-fullwidth
+header: 
+    title: "Kapcsolat"
+    image_fullwidth: "teli hatteren.jpg"
+    caption:
+    caption_url: 
+breadcrumb: false
 permalink: "/contact/"
 ---
 
