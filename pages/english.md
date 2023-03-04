@@ -3,8 +3,6 @@ layout: page-fullwidth
 header: 
     title: "Hungarian Agroecology Network"
     image_fullwidth: kamra-cimkes.jpg
-    caption: "Hungarian Agroecology Network"
-    caption_url: 
 meta_title: "About the Hungarian Agroecology Network"
 teaser: "About the Hungarian Agroecology Network"
 permalink: "/english/"
