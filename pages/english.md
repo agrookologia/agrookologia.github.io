@@ -23,4 +23,4 @@ With the help of diverse practical and theoretical knowledge created jointly by 
 
 Read more about the Network in this article.
 
-Listen to the story of the Hungarian Agroecology Network: (https://vimeo.com/797376596)[https://vimeo.com/797376596]
+Listen to the story of the Hungarian Agroecology Network: [https://vimeo.com/797376596](https://vimeo.com/797376596)
