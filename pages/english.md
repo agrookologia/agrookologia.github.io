@@ -1,11 +1,12 @@
 ---
 layout: page-fullwidth
-title: "Hungarian Agroecology Network"
-meta_title: "Feeling Responsive Theme Changelog"
-subheadline: "Feeling Responsive Theme Changelog"
+header: 
+    title: "Hungarian Agroecology Network"
+    image_fullwidth: kamra-cimkes.jpg
+    caption: "Hungarian Agroecology Network"
+    caption_url: 
+meta_title: "About the Hungarian Agroecology Network"
 teaser: "About the Hungarian Agroecology Network"
-header:
-   image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/english/"
 ---
 
@@ -22,4 +23,4 @@ With the help of diverse practical and theoretical knowledge created jointly by 
 
 Read more about the Network in this article.
 
-Listen to the story of the Hungarian Agroecology Network: https://vimeo.com/797376596
+Listen to the story of the Hungarian Agroecology Network: (https://vimeo.com/797376596)[https://vimeo.com/797376596]
