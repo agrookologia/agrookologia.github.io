@@ -40,3 +40,11 @@
 - title: "Kapcsolat"
   url: "/contact/"
   side: right
+
+
+- title: "HUN"
+  url: "/"
+  side: right
+- title: "ENG"
+  url: "/english/"
+  side: right
