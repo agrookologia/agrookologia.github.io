@@ -25,3 +25,6 @@ Listen to the story of the Hungarian Agroecology Network:
 
 <iframe src="https://player.vimeo.com/video/797376596?h=e546e6fd71" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/797376596">DIALOGUE #5 MAPPING AGROECOLOGICAL TERRITORIES with Lili Balogh</a> from <a href="https://vimeo.com/user140731069">Agro-Perma-Lab Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Get in touch with us at: agrookologiamagyarorszag@gmail.com , <br/>
+Follow us on Facebook: https://www.facebook.com/agrookologiamagyarorszag 
