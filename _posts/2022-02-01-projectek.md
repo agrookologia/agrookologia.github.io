@@ -27,3 +27,5 @@ author: kati
   * Magyar Agroökológia Konferencia III.
   * Lighthouse Farmok és Living Lab Webinárium
   * Új trendek a világ vezető agráregyetemein Konferencia
+
+
