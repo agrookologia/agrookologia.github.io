@@ -16,8 +16,6 @@ A konvencionális  mezőgazdasági termelés egyszerre okozója és elszenvedőj
 
 author: kati
 ---
-sajtkrém 
-
 
 A különböző ágazatokból érkező tagok által közösen létrehozott sokszínű gyakorlati és elméleti tudás segítségével tevékenységi körünkbe tartozik:
 
