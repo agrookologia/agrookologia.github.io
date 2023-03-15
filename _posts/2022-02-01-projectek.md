@@ -21,7 +21,7 @@ author: kati
 
 ## Lezajlott projektek, események
 
-  * Agroökológia Estek- Agroecology Nights
+  * Agroökológia Estek- Agroecology Nights: Ide kellene egy link
   * Magyar Agroökológia Konferencia I.
   * Magyar Agroökológia Konferencia II.
   * Magyar Agroökológia Konferencia III.
