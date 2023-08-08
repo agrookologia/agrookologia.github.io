@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: "teli hatteren.jpg"
+  title: "Magyarországi Agroökológiai Hálózat Egyesület"
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
