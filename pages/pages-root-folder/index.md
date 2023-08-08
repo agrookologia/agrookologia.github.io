@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "teli hatteren.jpg"
+  image_fullwidth: "32662652_10212114399990968_5664973176644304896_n.jpg másolata"
   title: "Magyarországi Agroökológiai Hálózat Egyesület"
 widget1:
   title: "Blog & Portfolio"
