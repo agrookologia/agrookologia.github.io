@@ -34,7 +34,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: mailto://agrookologia@gmail.com
+  url: mailto:agrookologia@gmail.com
   text: Csatlakozni szeretnék a hálózathoz!
   style: alert
 permalink: /index.html
