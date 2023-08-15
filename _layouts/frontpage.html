@@ -38,7 +38,9 @@ format: frontpage
 * First check, if there is a call for action-button
 *
 {% endcomment %}
-{% if page.callforaction.url contains 'http' or contains 'mailto' %}
+{% if page.callforaction.url contains 'http' %}
+{% assign url = '' %}
+{% else if page.callforaction.url contains 'mailto' %}
 {% assign url = '' %}
 {% else %}
 {% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
