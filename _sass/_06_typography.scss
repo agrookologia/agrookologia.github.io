@@ -285,6 +285,8 @@ mark {
 /* Typography for Articles
 ------------------------------------------------------------------- */
 
+img[src$='#oldaltorés'] { border: 1px solid left;}
+
 .subheadline {
     font-size: rem-calc(16);
     margin: 0;
