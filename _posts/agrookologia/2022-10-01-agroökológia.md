@@ -33,7 +33,7 @@ Az agroökológiai értékesítési gyakorlatok közé tartozik például a köz
 
 Társadalmi törekvésként az agroökológia a mezőgazdasági sokféleségért, a társadalmi igazságosságért, az élelmiszer-biztonság és élelem-önrendelkezés kialakításáért és a vidéki megélhetés javításáért küzd.
 
-![kukorica](/images/grafikukorica2.jpg)
+![kukorica](/images/grafikukorica2.jpg#oldaltores)
 
 Az agroökológiai civil kezdeményezések  világszerte elsősorban a kisléptékű termelők, valamint  fogyasztók jogaiért  dolgoznak ,  többek között az alábbi területeken: 
 a természetes erőforrásokhoz - például a termőföldhöz, vizekhez és a vetőmagokhoz - való igazságos hozzáférés; 
