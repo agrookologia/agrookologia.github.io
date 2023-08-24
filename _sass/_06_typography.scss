@@ -287,6 +287,9 @@ mark {
 
 img[src$='#oldaltores'] { 
     height: 5em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .subheadline {
