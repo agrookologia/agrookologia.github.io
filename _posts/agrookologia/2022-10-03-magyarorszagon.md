@@ -24,11 +24,15 @@ Ennek főbb eredményei a következők:
 
 Az agroökológiai értelemben sikeres gazdálkodási gyakorlatok hagyományos és innovatív elemek együttes alkalmazására, az értékesítés területén társadalmi innovációkra építhetnek. 
 
+![10 alapelem kép](/images/agroterkep.png)
+
 A zöld mozgalmak kiemelt figyelmet fordítanak élelmezésünk romló környezeti alapfeltételeire. A mezőgazdasági sokféleség vagy a regeneratív mezőgazdaság területén létrejött helyi kezdeményezések elkötelezettek a magasabb szintű együttműködés és egy hazai agroökológiai hálózat létrehozása iránt.
 
  Az agrárfelsőoktatás egyelőre csak nyomokban képviseli az agroökológia szemléletét, és csak alkalomszerűen mutat érdeklődést szakirányú kutatások végzésére. A gyakorlatorientált felnőttképzésben gazdálkodók és fogyasztók számára is számos hasznos agroökológiai ismereteket megalapozó képzés érhető el. 
+
+![10 alapelem kép](/images/szofelho.png)
  
 Az interjúk tanulsága, hogy a döntéshozatal szintjén jobbára csak hívószóként érzékelhető az agroökológia, és a környezet- és mezőgazdasági politika radikális megváltoztatásának igénye nem jellemző. A legnagyobb kihívás az agroökológia fejlesztése területén, hogy nincs érdemi párbeszéd a tudományos szféra és a gazdálkodók között sem. Noha a szereplők az agrár-környezetgazdálkodási és zöldmozgalmi alapokra építve lehetségesnek látják az agroökológiai szemlélet elterjesztését; ez azonban csak az érintettek szoros és formális együttműködéseinek keretében válhat valósággá. A hazai élelmiszer rendszer agroökológiai alapokra helyezése nem nélkülözheti az agrár- és környezetpolitika összehangolását és radikális irányváltását, amely az agroökológiai alapokhoz illeszkedő kisléptékű és alulról jövő kezdeményezéseket támogatja. Az érintettek jövőképe az agroökológia égisze alatt egy igazságos, egészséges és regeneratív élelmezési rendszer Magyarországon. “ 
 
-A tanulmány magyar nyelven itt érhető el. **ide kellene a link!**
+A tanulmány magyar nyelven [itt]([https://www.arc2020.eu/agroecology-grows-in-hungary/](http://xn--vdegylet-b1a.hu/wp-content/uploads/2021/08/AEterkepezes.pdf)http://xn--vdegylet-b1a.hu/wp-content/uploads/2021/08/AEterkepezes.pdf) érhető el. 
 
