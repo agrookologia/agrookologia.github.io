@@ -20,10 +20,12 @@ author: kati
 Magyarország első agroökológiai konferenciáját a Védegylet, az ESSRG és a Magyarországi Francia Intézet együttműködésében rendezték meg 2019 novemberében. A konferenciát egy műhelymunka követte, amelynek célja volt, hogy összekapcsolja a magyarországi agroökológiai kezdeményezések szereplőit, és alapot képezzen az érintettek jövőbeni együttműködéséhez. Az együttműködést felkarolva 2020-2021-ben a Védegylet szervezésével jött létre  a Magyarországi Agroökológia Hálózat. 
 
 A hálózati munka szervezését a 2022-ben alakult Magyar Agroökológia Hálózat Egyesület végzi. Az egyesület elnöksége:
-Balogh Lili, elnök: agroökológus, gazdálkodó
-Lengyel Zoltán, elnökségi tag: gazdálkodó
-Réthy Katalin, elnökségi tag: agroökológus, gazdálkodó
-Varga Korinna, elnökségi tag az Ökológiai Mezőgazdasági Kutatóintézet képviseletében:
+  * Balogh Lili, elnök: agroökológus, gazdálkodó
+  * Lengyel Zoltán, elnökségi tag: gazdálkodó
+  * Réthy Katalin, elnökségi tag: agroökológus, gazdálkodó
+  * Allacherné Szépkuthy Katalin, elnökségi tag az Ökológiai Mezőgazdasági Kutatóintézet képviseletében
+
+![alapitas kép](/images/agroalapitas.jpg)
 
 Egy olyan világért dolgozunk, ahol
 
@@ -55,6 +57,7 @@ Egy olyan világért dolgozunk, ahol
   * Tudás megosztása és az ahhoz való szabad hozzáférés biztosítása
   * Tiszteletteljes párbeszéd
 
+![konfi kép](/images/agrokonfi1.jpg)
 
 ## Célunk
 
