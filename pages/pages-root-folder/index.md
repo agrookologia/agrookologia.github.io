@@ -9,10 +9,10 @@ header:
   image_fullwidth: "32662652_10212114399990968_5664973176644304896_n.jpg másolata"
   title: "Magyarországi Agroökológiai Hálózat Egyesület"
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Fórum"
+  url: 'https://agrookologia.github.io/forum/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Európai Agroökológia Fórum 2023 Összetartó mozgalmak a rugalmasan ellenálló élelmezési rendszerekért<br/>november 16–18., Gyöngyös, Magyarország'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
