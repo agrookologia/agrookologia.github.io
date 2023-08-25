@@ -12,7 +12,7 @@ widget1:
   title: "Fórum"
   url: 'https://agrookologia.github.io/forum/'
   image: widget-1-302x182.jpg
-  text: 'Európai Agroökológia Fórum 2023 Összetartó mozgalmak a rugalmasan ellenálló élelmezési rendszerekért<br/>november 16–18., Gyöngyös, Magyarország<p/>Az Európai Agroökológiai Fórum egy háromnapos, személyes részvétellel zajló rendezvény, amely 200-300 résztvevőt hív meg Európából és azon túlról, hogy dinamikus és interaktív párbeszédet folytassanak kulcsfontosságú európai politikai kérdésekről.'
+  text: '<strong>2023 november 16–18., Gyöngyös, Magyarország</strong><p/>Az <strong>Európai Agroökológiai Fórum</strong> egy háromnapos, személyes részvétellel zajló rendezvény, amely 200-300 résztvevőt hív meg Európából és azon túlról, hogy dinamikus és interaktív párbeszédet folytassanak kulcsfontosságú európai politikai kérdésekről.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
