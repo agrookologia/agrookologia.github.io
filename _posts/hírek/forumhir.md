@@ -1,0 +1,25 @@
+---
+layout: page-fullwidth
+header: 
+    title: "HÍREK"
+    image_fullwidth: "hirekfejlec.jpg"
+    caption:
+    caption_url: 
+breadcrumb: false
+categories:
+    - hálózat
+tags:
+    - news
+title: Hírek
+meta_teaser: 
+
+author: kati
+---
+## Agroökológia Fórum Magyarországon ##  
+
+2023. november 16–18. közöttGyöngyösön kerül megrendezésre az Európai Agroökológiai Fórum. A személyes részvétellel zajló, háromnapos rendezvény 200-300 résztvevőt hív meg Európából és azon túlról, hogy dinamikus és interaktív párbeszédet folytassanak kulcsfontosságú európai politikai kérdésekről. Az agroökológiában érdekeltek és a közösség képviselői – gazdák, termelők, földművesek, kutatók, társadalmi mozgalmárok, civil szervezetek, európai törvényalkotók – találkoznak, hogy megvitassák a legégetőbb kihívásokat és megoldási javaslatokkal szolgáljanak a jelen mezőgazdasági és élelmezési rendszereiben.
+
+A fórum programjáról és a jelentkezés módjáról bővebben (itt)[/pages/forum.md] tájékozódhat. 
+
+![kép2](/images/forumregistration.png)
+
