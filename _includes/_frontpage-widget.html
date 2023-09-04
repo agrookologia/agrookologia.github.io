@@ -18,9 +18,6 @@
 	<p>{{ include.widget.text }}</p>
 	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
 </div>
-
-    <div class="row t30 b20 homepage">
-        <div class="small-12 columns">
             {% for post in site.tags.NEWS limit:1 %}
             {% if post.image.homepage %}
             <p>
@@ -32,8 +29,5 @@
                 <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
             </p>
             {% endif %}
-            {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
-            {% endif %}
             {% endfor %}
-        </div><!-- /.small-12.columns -->
+
