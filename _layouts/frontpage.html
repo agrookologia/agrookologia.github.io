@@ -35,7 +35,7 @@ format: frontpage
                 <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
             </p>
 		<p>{{ post.excerpt }}</p>
-	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url
+	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}
             {% endif %}
             {% endfor %}
 
