@@ -27,24 +27,19 @@ format: frontpage
 				
 {%comment%}widget 3 helyett hírek {%endcomment%}
 
-<div class="medium-4 columns frontpage-widget">
-	<a href="/hírek">
+<div class="medium-4 columns frontpage-widget">	
+	<h2 class="font-size-h3 t10">{{ Hírek }}</h2>
 	   {% for post in site.tags.NEWS limit:1 %}
-            {% if post.image.homepage %}
-            <p>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
-            </p>
-
             {% if post.image.caption_url and post.image.caption %}
             <p class="text-right caption">
                 <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
             </p>
+		<p>{{ post.excerpt }}</p>
+	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url
             {% endif %}
             {% endfor %}
 
-	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
-	<p>{{ include.widget.text }}</p>
-	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
+ }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
 </div>
 
 	
