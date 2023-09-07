@@ -1,15 +1,19 @@
+
+
 <div class="medium-4 columns frontpage-widget">
+  {% for post in site.tags.news limit:1 %}           
+
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% capture widget_image %}{% if post.image.homepage %} {{ post.image.homepage }} {% else %} {{include.widget.image}} {% endif %}{% endcapture %}
-	{% for post in site.tags.news limit:1 %}           
 		<a href="{{ widget_url }}">   <img src="{{widget_image}}" alt="" />	</a>
 		<h2 class="font-size-h3 t10">{{ post.title | escape_once }}</h2>
 		<p>{{ post.teaser }}</p>
 		<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
-        {% endfor %}
+
             {% if post.image.caption_url and post.image.caption %}
             <p class="text-right caption">
                 <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
             </p>
             {% endif %}
-
+  {% endfor %}
+</div>
