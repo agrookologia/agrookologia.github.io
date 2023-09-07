@@ -20,12 +20,13 @@ format: frontpage
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
 
-
 	{% if page.widget2.title %}
 		{% include _frontpage-widget.html widget=page.widget2 %}
 	{% endif %}
-				
-{%comment%}widget 3 helyett hírek {%endcomment%}
+
+	{% if page.widget3.title %}
+		{% include _frontpage-widget.html widget=page.widget3 %}
+	{% endif %}
 
 <div class="medium-4 columns frontpage-widget">	
 	<h2 class="font-size-h3 t10">{{ Hírek }}</h2>
