@@ -1,13 +1,12 @@
 	{% if include.widget.type == 'news' %} 
-		{{ assign shorts = site.tags.news }} 
-		{{ assign head = 'Hírek' }} 
+		{% assign shorts = site.tags.news %} 
+		{% assign head = 'Hírek' %} 
 	{% else  %} 
-		{{ assign shorts = site.tags.events }}
-		{{ assign head = 'Események' }} 
+		{% assign shorts = site.tags.events %}
+		{% assign head = 'Események' %} 
 	{% endif %}
 
 <div class="medium-4 columns frontpage-widget">
-	a
   {% for post in shorts limit:1 %}           
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% capture widget_image %}{% if post.image.homepage %} {{ post.image.homepage }} {% else %} {{include.widget.image}} {% endif %}{% endcapture %}
