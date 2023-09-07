@@ -19,6 +19,9 @@ author: kati
 
 # Futó projektek, események
 
+* [Regeneratív Mezőgazdaság forradalma](https://www.biokutatas.hu/hu/page/show/eitfood) 
+* [Európai Agroökológia Fórum 2023, Gyöngyös](http://agrooko.hu/forum/)
+
 # Lezajlott projektek, események
 
   * [Agroökológia Estek- Agroecology Nights I.](http://xn--vdegylet-b1a.hu/wp-content/uploads/2019/05/Agro%C3%B6kol%C3%B3gia-Estek-I..pdf)
