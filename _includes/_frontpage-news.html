@@ -1,5 +1,5 @@
 {% capture shorts %} {% if include.widget.type == 'news' %} {{ site.tags.news }}{% else  %}{{ site.tags.events }}{% endif %} {% endcapture %}
-{{ shorts }} 
+
 {% for post in  shorts limit:1 %}
   --{{ post.title }}--
 {%endfor%}
