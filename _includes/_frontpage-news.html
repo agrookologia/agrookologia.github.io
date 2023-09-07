@@ -10,6 +10,7 @@
 	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
 
 
+{% comment %}
 
 <div class="medium-4 columns frontpage-widget">
         <div class="small-12 columns">
@@ -28,8 +29,7 @@
             {% endfor %}
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
-
-{% comment %}  
+  
 <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
