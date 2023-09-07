@@ -12,11 +12,8 @@
 	{% capture widget_image %}{% if post.image.homepage %} {{ post.image.homepage }} {% else %} /images/{{include.widget.image}} {% endif %}{% endcapture %}
 		<a href="{{ widget_url }}">   <img src="{{widget_image}}" alt="" />	</a>
 		<h2 class="font-size-h3 t10">{{ head }}</h2><p>
-		{% if post.teaser %}
-		{{ post.teaser }}
-		{% else %}
 		{{ post.excerpt }}
-		{% endif %}</p>
+		</p>
 		<p><a class="button tiny radius" href="{{ post.url }}">{{ site.data.language.more }}</a></p>
 
             {% if post.image.caption_url and post.image.caption %}
