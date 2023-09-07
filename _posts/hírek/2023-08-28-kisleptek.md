@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header: 
-    title: "HÍREK"
+    title: "Őszi szakmai programok a Kislépték Egyesületnél"
     image_fullwidth: "hirekfejlec.jpg"
     caption:
     caption_url: 
