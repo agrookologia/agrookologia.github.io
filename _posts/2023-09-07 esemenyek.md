@@ -9,9 +9,10 @@ breadcrumb: false
 categories:
     - hálózat
 tags:
-    - news
+    - events
 title: Hírek
-meta_teaser: 
+meta_teaser: "2023. november 16–18., Gyöngyös
+(Leírás és jelentkezés)[/pages/forum.md] "
 
 author: kati
 ---
