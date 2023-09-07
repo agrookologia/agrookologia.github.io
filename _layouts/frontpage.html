@@ -21,11 +21,11 @@ format: frontpage
 	{% endif %}
 
 	{% if page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
+		{% include _frontpage-news.html widget=page.widget2 %}
 	{% endif %}
 
 	{% if page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
+		{% include _frontpage-news.html widget=page.widget3 %}
 	{% endif %}
 
  }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
