@@ -1,13 +1,10 @@
 	{% if include.widget.type == 'news' %} 
 		{{ assign shorts = site.tags.news }} 
+		{{ assign head = 'Hírek' }} 
 	{% else  %} 
 		{{ assign shorts = site.tags.events }}
+		{{ assign head = 'Események' }} 
 	{% endif %}
-
-
-{% for post in  shorts limit:1 %}
-  --{{ post.title }}--
-{%endfor%}
 
 <div class="medium-4 columns frontpage-widget">
 	a
@@ -15,7 +12,7 @@
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% capture widget_image %}{% if post.image.homepage %} {{ post.image.homepage }} {% else %} {{include.widget.image}} {% endif %}{% endcapture %}
 		<a href="{{ widget_url }}">   <img src="{{widget_image}}" alt="" />	</a>
-		<h2 class="font-size-h3 t10">{{ post.title | escape_once }}</h2>
+		<h2 class="font-size-h3 t10">{{ head }}</h2>
 		<p>{{ post.teaser }}</p>
 		<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
 
