@@ -3,7 +3,7 @@
 	{% else  %} 
 		{{ assign shorts = site.tags.events }}
 	{% endif %}
-{% endcapture %}
+
 
 {% for post in  shorts limit:1 %}
   --{{ post.title }}--
