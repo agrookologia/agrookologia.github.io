@@ -1,11 +1,11 @@
-{% capture shorts %} {% if include.widget.type == 'news' %} {{ site.tags.news }}{% else  %}{{ site.tags.events }}{% endif %} {% endcapture %}
+{% capture shorts %} {% if include.widget.type == 'news' %} news! {{ site.tags.news }} {% else  %} events! {{ site.tags.events }}{% endif %} {% endcapture %}
 
 {% for post in  shorts limit:1 %}
   --{{ post.title }}--
 {%endfor%}
 
 <div class="medium-4 columns frontpage-widget">
-  {% for post in site.tags.news limit:1 %}           
+  {% for post in shorts limit:1 %}           
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% capture widget_image %}{% if post.image.homepage %} {{ post.image.homepage }} {% else %} {{include.widget.image}} {% endif %}{% endcapture %}
 		<a href="{{ widget_url }}">   <img src="{{widget_image}}" alt="" />	</a>
