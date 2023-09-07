@@ -17,7 +17,7 @@
 		{% else %}
 		{{ post.content }}
 		{% endif %}</p>
-		<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
+		<p><a class="button tiny radius" href="{{ post.url }}>{{ site.data.language.more }}</a></p>
 
             {% if post.image.caption_url and post.image.caption %}
             <p class="text-right caption">
