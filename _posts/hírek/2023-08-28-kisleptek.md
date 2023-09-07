@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 header: 
-    title: "HÍREK"
-    image_fullwidth: "hirekfejlec.jpg"
+    title: "Őszi szakmai programok a Kislépték Egyesületnél"
+    image_fullwidth: "hirekfejlec.JPG"
     caption:
     caption_url: 
 breadcrumb: false
@@ -19,7 +19,7 @@ author: kati
 
 **Rövid élelmiszer-ellátási lánc szervező képzés**
 
-2023. 09.25- 10.16 között kerül megrendezésre a REL- szervező képzés személyes és online formában. A 7 alkalmas képzésen a résztvevők hasznos ismereteket szerezhetnek a rövid élelmiszer- ellátási láncokról, védjegyekről, marketing stratégiákról, logisztikai és jogi szempontokról is. 
+2023.09.25- 10.16 között kerül megrendezésre a REL- szervező képzés személyes és online formában. A 7 alkalmas képzésen a résztvevők hasznos ismereteket szerezhetnek a rövid élelmiszer- ellátási láncokról, védjegyekről, marketing stratégiákról, logisztikai és jogi szempontokról is. 
 
 A képzés részletes programja és a jelentkezési lap [itt](https://kisleptek.hu/tudastar/rel-szervezo-kepzes/ujabb-rel-szervezok-kepzest-inditunk-2023-szeptembereben/) érhető el. 
 
