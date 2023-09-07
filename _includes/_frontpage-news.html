@@ -1,8 +1,7 @@
-{% capture shorts %} 
 	{% if include.widget.type == 'news' %} 
-		{{ site.tags.news }} 
+		{{ assign shorts = site.tags.news }} 
 	{% else  %} 
-		{{ site.tags.events }}
+		{{ assign shorts = site.tags.events }}
 	{% endif %}
 {% endcapture %}
 
