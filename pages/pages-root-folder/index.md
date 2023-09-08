@@ -16,11 +16,11 @@ widget1:
 widget2:
   title: "Hírek"
   type: 'news'
-  image: hirekfejlecszines.jpg
+  image: hirekfejlecszines.JPG
 widget3:
   title: "Közelgő események"
   type: 'events'
-  image: kenyeresesemény.jpg
+  image: kenyeresesemény.JPG
 #
 # Use the call for action to show a button on the frontpage
 #
