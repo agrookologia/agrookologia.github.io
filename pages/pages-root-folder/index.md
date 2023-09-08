@@ -11,16 +11,16 @@ header:
 widget1:
   title: "Fórum"
   url: 'https://agrookologia.github.io/forum/'
-  image: widget-1-302x182.jpg
+  image: agrokonfi1.jpg
   text: '<strong>2023 november 16–18., Gyöngyös, Magyarország</strong><p/>Az <strong>Európai Agroökológiai Fórum</strong> egy háromnapos, személyes részvétellel zajló rendezvény, amely 200-300 résztvevőt hív meg Európából és azon túlról, hogy dinamikus és interaktív párbeszédet folytassanak kulcsfontosságú európai politikai kérdésekről.'
 widget2:
   title: "Hírek"
   type: 'news'
-  image: widget-github-303x182.jpg
+  image: hirekfejlecszines.jpg
 widget3:
   title: "Közelgő események"
   type: 'events'
-  image: widget-github-303x182.jpg
+  image: kenyeresesemény.jpg
 #
 # Use the call for action to show a button on the frontpage
 #
