@@ -16,11 +16,14 @@ A konvencionális  mezőgazdasági termelés egyszerre okozója és elszenvedőj
 
 author: kati
 ---
+![kukorica](/images/grafisoknoveny2.jpg#oldaltores)
 
 # Futó projektek, események
 
 * [Regeneratív Mezőgazdaság forradalma](https://www.biokutatas.hu/hu/page/show/eitfood) 
 * [Európai Agroökológia Fórum 2023, Gyöngyös](http://agrooko.hu/forum/)
+
+  ![kukorica](/images/grafibivaly.jpg#oldaltores)
 
 # Lezajlott projektek, események
 
