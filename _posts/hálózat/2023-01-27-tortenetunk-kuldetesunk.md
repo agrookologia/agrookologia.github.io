@@ -25,7 +25,7 @@ A hálózati munka szervezését a 2022-ben alakult Magyar Agroökológia Háló
   * Réthy Katalin, elnökségi tag: agroökológus, gazdálkodó
   * Allacherné Szépkuthy Katalin, elnökségi tag az Ökológiai Mezőgazdasági Kutatóintézet képviseletében
 
-![alapitas kép](/images/agroalapitas.jpg)
+<img src="/images/agroalapitas.jpg" width="400">
 
 Egy olyan világért dolgozunk, ahol
 

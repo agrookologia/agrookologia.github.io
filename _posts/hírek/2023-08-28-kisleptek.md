@@ -10,7 +10,7 @@ categories:
     - hálózat
 tags:
     - news
-title: Hírek
+title: Őszi szakmai programok a Kislépték Egyesületnél
 meta_teaser: 
 
 author: kati

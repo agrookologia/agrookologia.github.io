@@ -19,6 +19,8 @@ tags:
 author: kati
 ---
 
+<img src="/images/Pallagvölgy.jpg" width="400">
+
 Az agroökológia célja a természeti környezettel összhangban működő mezőgazdasági termelés és társadalmilag fenntartható, méltányos élelmezési rendszerek megteremtése. 
 
 Az agroökológia egyszerre tudományos irányzat, gyakorlatok és társadalmi törekvések összessége. Az iparosodott mezőgazdaság által okozott problémákra válaszként kezdett teret hódítani. Tudományos alapjai az agronómia, az ökológia, a társadalomtudományok és a közgazdaságtan területein találhatók. 

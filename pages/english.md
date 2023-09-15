@@ -10,6 +10,8 @@ permalink: "/english/"
 
 The aim of this multistakeholder, transdisciplinary and intergenerational network is to connect and strengthen those working with agroecology. The network is meant to be a meeting point, a knowledge-producing and - sharing community and an advocacy organization. The long-term goal is to promote a national and international agroecological transformation of practices and policies and the implementation of food sovereignty through joint work and movement building, and to work together to create a socially, economically and naturally sustainable agricultural production, processing and distribution system in Hungary – and beyond.
 
+![kukorica](/images/grafikukorica2.jpg#oldaltores)
+
 With the help of diverse practical and theoretical knowledge created jointly by members from different sectors, the network intends to: 
 
  * organize events to promote knowledge sharing and networking, facilitate working relationships and the development of processes between the actors of the Hungarian agroecological transition;
@@ -18,6 +20,8 @@ With the help of diverse practical and theoretical knowledge created jointly by 
  * formulate and represent policy recommendations;
  * advocate for agroecology;
  * promote practice-oriented, stakeholder-involved, cross-disciplinary research.
+
+![kukorica](/images/grafibivaly2.jpg#oldaltores)
 
 Read more about the Network in [this](https://www.arc2020.eu/agroecology-grows-in-hungary/) article.
 
