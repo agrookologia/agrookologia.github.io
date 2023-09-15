@@ -16,6 +16,8 @@ author: kati
 ---
 Magyarországon sokféle alternatív, fenntartható, környezetbarát mezőgazdasággal és élelmiszerekkel kapcsolatos kezdeményezés létezik a mezőgazdasági gyakorlat, az agrárkutatás, és a felsőoktatás területén is. Az agroökológiai megközelítés alkalmas arra, hogy összekösse a mezőgazdasági termelők, szakágazati kutatók, civil aktivisták és tudatos fogyasztók munkáját egy regeneratív, társadalmilag igazságos, egészséges élelmiszer-rendszer létrehozásában. Az Agroecology Europe megbízásából 2020-ban feltérképeztük a magyarországi helyzetet.
 
+<a href="/images/MappingHungary.pdf" class="th right"><img width="200" src="/images/agrookotanulmany.jpg"/></a>
+
 Ennek főbb eredményei a következők: 
 
 ## Idézet a tanulmány összefoglalójából:
@@ -34,5 +36,5 @@ A zöld mozgalmak kiemelt figyelmet fordítanak élelmezésünk romló környeze
  
 Az interjúk tanulsága, hogy a döntéshozatal szintjén jobbára csak hívószóként érzékelhető az agroökológia, és a környezet- és mezőgazdasági politika radikális megváltoztatásának igénye nem jellemző. A legnagyobb kihívás az agroökológia fejlesztése területén, hogy nincs érdemi párbeszéd a tudományos szféra és a gazdálkodók között sem. Noha a szereplők az agrár-környezetgazdálkodási és zöldmozgalmi alapokra építve lehetségesnek látják az agroökológiai szemlélet elterjesztését; ez azonban csak az érintettek szoros és formális együttműködéseinek keretében válhat valósággá. A hazai élelmiszer rendszer agroökológiai alapokra helyezése nem nélkülözheti az agrár- és környezetpolitika összehangolását és radikális irányváltását, amely az agroökológiai alapokhoz illeszkedő kisléptékű és alulról jövő kezdeményezéseket támogatja. Az érintettek jövőképe az agroökológia égisze alatt egy igazságos, egészséges és regeneratív élelmezési rendszer Magyarországon. “ 
 
-A tanulmány magyar nyelven [itt](http://xn--vdegylet-b1a.hu/wp-content/uploads/2021/08/AEterkepezes.pdf), angol nyelven pedig [itt](https://www.agroecology-europe.org/mapping-agroecology-initiatives-hungary/) érhető el. 
+A tanulmány magyar nyelven **[itt](http://xn--vdegylet-b1a.hu/wp-content/uploads/2021/08/AEterkepezes.pdf)**  , angol nyelven pedig **[itt](https://www.agroecology-europe.org/mapping-agroecology-initiatives-hungary/)** érhető el. 
 
