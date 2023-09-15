@@ -26,4 +26,6 @@ A különböző ágazatokból érkező tagok által közösen létrehozott soksz
   * az agroökológia érdekképviselete;
   * gyakorlatorientált, érintetteket bevonó, tudományterületeken átívelő kutatások elősegítése
 
+<img src="/images/eitfood1.jpg" width="400">
+
 E tevékenységek elsősorban a Hálózat tagjainak és szimpatizánsainak együttműködésén alapuló erősítésével az erőforrások közösségi hasznosításával valósulnak meg.
