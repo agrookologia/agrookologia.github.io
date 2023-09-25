@@ -7,7 +7,7 @@ teaser: "Európai Agroökológia Fórum 2023"
 permalink: "/forum/"
 ---
 
-# Európai Agroökológia Fórum 2023: Összetartó mozgalmak a rugalmasan ellenálló élelmezési rendszerekért 
+**Európai Agroökológia Fórum 2023: Összetartó mozgalmak a rugalmasan ellenálló élelmezési rendszerekért** 
 
 *2023. november 16–18., Gyöngyös, Magyarország*
 
@@ -53,7 +53,7 @@ A 2023-as Fórum a fókuszában – egy gazdag és inspiráló menetrenddel – 
 * Innovatív gazdálkodási technikák az európai mezőgazdaság rugalmas alkalmazkodóképességének elősegítésére
 * A hagyományos mezőgazdasági tudás és növényfajták helyreállítása és értékelése (szakpolitikai relevancia: új genomikai technikák)
 
-# [Tekintse meg a programot](https://www.agroecology-europe.org/wp-content/uploads/2023/07/HU_PROGRAMTERV-Euro%CC%81pai-Agroo%CC%88kolo%CC%81giai-Fo%CC%81rum-2023-.pdf )
+** [Tekintse meg a programot](https://www.agroecology-europe.org/wp-content/uploads/2023/07/HU_PROGRAMTERV-Euro%CC%81pai-Agroo%CC%88kolo%CC%81giai-Fo%CC%81rum-2023-.pdf )** 
 
 # CSATLAKOZZ A 2023-AS EURÓPAI AGROÖKOLÓGIAI FÓRUMHOZ!
 Jelentkezz, hogy biztosítsd a helyed Európa vezető, regeneratív gazdálkodással foglalkozó tudósai, kutatói, szakértői, törvényhozói, újítói és úttörői között! Az Agroecology Europe elkötelezett a változatosság mellett annak minden formájában, beleértve a gender, rassz, szexuális irányultság, társadalmi osztály, életkor, fizikai képességek, kulturális háttér és etno-vallási hovatartozás kérdését is. Szeretettel várunk minden, az agroökológiai tanulási folyamat bármely állomásáról érkező, bármilyen társadalmi és szakmai háttérrel rendelkező jelentkezőt. A jelentkezési lapot [itt éri el](https://www.agroecology-europe.org/agroecology-europe-forum-2023/registration-aeeu-forum-2023/) 
@@ -64,7 +64,7 @@ Minden jegytípus teljes körű belépést biztosít a plenáris ülésekre, a m
 
 Ne csak mondd, csináld is! A természethez való közelkerülés és a gazdálkodók prioritásainak megismerése a 3. napon kerülnek terítékre, mely során meglátogatunk helyi agroökológiai szemléletű gazdaságokat, termelőket. Add hozzá ezt az opcionális programot a jelentkezésedhez és legyél részese egy teljes tanulmányútnak, nézd meg közelről, hogy működik az agroökológia Magyarországon! Személyszállítás és ebéd az árban!
 
-# További információ az európai agroökológia fórumokról
+**További információ az európai agroökológia fórumokról**
 
 Minden második évben az Európai Agroökológiai Szövetség helyi gazdákkal, egyetemekkel, társadalmi mozgalmakkal, regionális szervekkel és más civil szervezetekkel karöltve megszervezi a Fórumot, hogy támogassa az eszmecserét, az észervételeket és az alulról szerveződő párbeszédeket.
 Az első három Fórumot – [2017 Lyon, Franciaország](https://www.agroecology-europe.org/agroecology-forum-2017/), [2019 Heraklion, Görögország](http://www.agroecologyeuropeforum.eu/) és [2021 Barcelona, Spanyolország](https://www.agroecology-europe.org/agroecology-forum-2021/) – valamint az első Európai Ifjúsági Agroökológiai Fórumot – [2022 Rambouillet, Franciaország](https://www.agroecology-europe.org/agroecology-europe-youth-forum-2022/) – követően idén a Fórum Magyarországra, Gyöngyösre látogat.
